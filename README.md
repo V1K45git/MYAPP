@@ -59,7 +59,7 @@ To get this Netflix Clone project up and running on your local machine, follow t
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/netflix-clone.git
+   git clone https://github.com/V1K45git/netflix-clone.git
    ```
 
 2. Change into the project directory:
