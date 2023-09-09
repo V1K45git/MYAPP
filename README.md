@@ -7,6 +7,9 @@
 + Start Node App
 + Start React App
 
++ Integrated a movie database API (MovieDB) to fetch a vast collection of movies and TV shows.
+Enable users to browse and search for their favourite content.
++ Designed and implemented a user-centric Login and Sign-up interface, enhancing user engagement
+and security.
 
-## Watch it on [Youtube](https://www.youtube.com/watch?v=HgaJW2I4Mbk)
 
