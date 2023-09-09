@@ -25,7 +25,6 @@ Welcome to the Netflix Clone project! This project is a web application that rep
 - [Getting Started](#getting-started)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
@@ -104,7 +103,6 @@ To get this Netflix Clone project up and running on your local machine, follow t
 - Browse the catalog of movies and TV shows.
 - Search for specific content.
 - Click on a title to view details and start watching.
-- Create and manage user profiles.
 - Enjoy streaming your favorite movies and TV shows.
 
 ## Contributing
@@ -116,9 +114,6 @@ Contributions to this project are welcome! If you would like to contribute, plea
 3. Make your changes and test thoroughly.
 4. Create a pull request with a detailed description of your changes.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
